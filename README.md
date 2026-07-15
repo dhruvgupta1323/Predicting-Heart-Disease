@@ -21,7 +21,6 @@ A Streamlit web app that estimates the probability of heart disease presence fro
  
 
 ## Demo
-
 ![App demo](assets/demo.gif)
 
 ## Tech stack
