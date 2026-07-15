@@ -2,6 +2,10 @@
 
 A Streamlit web app that estimates the probability of heart disease presence from 13 clinical measurements, using a trained Logistic Regression model on the Statlog Heart Disease dataset.
 
+------
+
+## Demo
+![App demo](assets/demo.gif)
 ---
 LIVE AT:
 https://heart-disease-predictor-dg.streamlit.app/
@@ -20,9 +24,7 @@ https://heart-disease-predictor-dg.streamlit.app/
 - **Resilient loading** — if the model files aren't found next to the app, you can upload them directly from the sidebar
 
  
-
-## Demo
-![App demo](assets/demo.gif)
+ 
 
 ## Tech stack
 
