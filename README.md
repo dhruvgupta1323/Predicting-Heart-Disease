@@ -18,11 +18,11 @@ A Streamlit web app that estimates the probability of heart disease presence fro
 - **Explainability** — shows the top clinical factors pushing an individual prediction up or down, derived from the model's own coefficients
 - **Resilient loading** — if the model files aren't found next to the app, you can upload them directly from the sidebar
 
-## Demo
+ 
 
 ## Demo
-   
-   ![App demo](assets/demo.gif)
+
+![App demo](assets/demo.gif)
 
 ## Tech stack
 
