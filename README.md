@@ -20,8 +20,9 @@ A Streamlit web app that estimates the probability of heart disease presence fro
 
 ## Demo
 
-> Add a screenshot or GIF of the app here once deployed, e.g.:
-> `![App screenshot](assets/screenshot.png)`
+## Demo
+   
+   ![App demo](assets/demo.gif)
 
 ## Tech stack
 
